@@ -1,0 +1,20 @@
+.destination-search-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 16px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.destination-list {
+  list-style: none;
+  padding: 0;
+}
+
